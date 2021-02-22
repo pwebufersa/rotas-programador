@@ -1,11 +1,11 @@
-<center>
+<div style="text-align: center;">
 
 # Trilhas para se tornar um desenvolvedor web em 2021
 
 [![Versão original](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![Canal no YouTube](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
 
-</center>
+</div>
 
 > A seguir encontra-se um conjunto de gráficos demonstrando as rotas/trilhas e as tecnologias que você pode aprender para se tornar um(a) desenvolvedor(a) frontend, backend ou um(a) ver o que é necessário na cultura DevOps.
 
@@ -15,17 +15,17 @@
 
 ***
 
-<center>
+<div style="text-align: center;">
 
 # Propósito
 
-</center>
+</div>
 
 > O propósito dessas trilhas é dar uma organizada na confusão. Para os iniciantes, tenha calma. Você não precisa aprender tudo!
 
 ***
 
-<center>
+<div style="text-align: center;">
 
 ## Início - escolha sua trilha/rota.
 
@@ -51,4 +51,4 @@
 
 [Em inglês.](/img_en_us/devops-map.png)
 
-</center>
+</div>
