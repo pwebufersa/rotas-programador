@@ -7,11 +7,11 @@
 
 </div>
 
-> A seguir encontra-se um conjunto de gráficos demonstrando as rotas/trilhas e as tecnologias que você pode aprender para se tornar um(a) desenvolvedor(a) frontend, backend ou um(a) ver o que é necessário na cultura DevOps.
+> A seguir encontra-se um conjunto de gráficos demonstrando as rotas/trilhas e as tecnologias que você pode aprender para se tornar um(a) desenvolvedor(a) frontend, backend ou ver o que é necessário na cultura DevOps.
 
-> O autor original ([kamranahmeds](https://github.com/kamranahmedse)) fez esses gráficos a pedido de um professor, com o intuito de ajudar os alunos a terem uma perspectiva da área.
+> O autor original ([kamranahmeds](https://github.com/kamranahmedse)) fez esses gráficos a pedido de um professor, com o intuito de ajudar os alunos a terem uma perspectiva das áreas.
 
-> Esse é um fork do repositório, adaptado e resumido para pt_br para ser usado na disciplina de Programação WEB da UFERSA Angicos.
+> Esse é um *fork* do repositório, adaptado e resumido para pt_br para ser usado na disciplina de Programação WEB da UFERSA Angicos.
 
 ***
 
