@@ -27,28 +27,28 @@
 
 <div style="text-align: center;">
 
-## Início
+## Início - escolha sua trilha/rota.
 
-![](./img_pt_br/intro-map.png)
+![Início - escolha sua trilha/rota.](./img_pt_br/intro-map.png)
 
 [Em inglês.](./img_en_us/intro-map.png)
 
 ## Trilha front-end 
 
-![](./img_pt_br/frontend-map.png)
+![Trilha front-end.](./img_pt_br/frontend-map.png)
 
 [Em inglês.](./img_en_us/frontend-map.png)
 
-## Trilha backend
+## Trilha back-end
 
-![](./img_pt_br/backend-map.png)
+![Trilha backend.](./img_pt_br/backend-map.png)
 
 [Em inglês.](./img_en_us/backend-map.png)
 
 ## Trilha DevOps
 
-![](./img_pt_br/devops-map.png)
+![Trilha DevOps.](./img_pt_br/devops-map.png)
 
-[Em inglês.](./img_en_us/devops-map.png)
+[Em inglês.](/img_en_us/devops-map.png)
 
 </div>
